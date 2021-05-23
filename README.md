@@ -1,3 +1,1 @@
-Join In My Discord For Help !
-https://discord.gg/RsHY5H4pHG
-Luksius On TOP ~!
+This retard of luksius is scamming people with a "softaim" he mean a shit & detect external paste.

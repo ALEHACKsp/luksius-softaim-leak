@@ -12,6 +12,8 @@
 #define OFFSET_UWORLD 0x724DF10 //48 8b 0d ? ? ? ? 48 85 c9 74 30 e8 ? ? ? ? 48 8b f8
 #define location_Offs 0x7227D80 //F3 44 0F 11 1D ? ? ? ?
 
+// UWORLD OFFSET MAYBE WRONG, IM TOO LAZY FOR UPDATE IT.
+
 #define botid 18388801
 
 bool Menu = false;
